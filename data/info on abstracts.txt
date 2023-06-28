@@ -1,0 +1,39 @@
+humphreys: 25
+berger: 54
+rambocas: 9
+hartmann: 39
+zotero: 85
+wos: 122
+humphreys - Berger : 15
+humphreys - Rambocas : 3
+humphreys - Zotero : 11
+humphreys - WoS : 5
+humphreys - Hartmann : 4
+Berger - humphreys : 15
+Berger - Rambocas : 5
+Berger - Zotero : 29
+Berger - WoS : 9
+Berger - Hartmann : 14
+Rambocas - humphreys : 3
+Rambocas - Berger : 5
+Rambocas - Zotero : 6
+Rambocas - WoS : 1
+Rambocas - Hartmann : 1
+Zotero - humphreys : 11
+Zotero - Berger : 29
+Zotero - Rambocas : 6
+Zotero - WoS : 32
+Zotero - Hartmann : 18
+WoS - humphreys : 5
+WoS - Berger : 9
+WoS - Rambocas : 1
+WoS - Zotero : 32
+WoS - Hartmann : 14
+Hartmann - humphreys : 4
+Hartmann - Berger : 14
+Hartmann - Rambocas : 1
+Hartmann - Zotero : 18
+Hartmann - WoS : 14
+abstracts loaded as a list: 338
+abstracts loaded as a set: 223
+abstracts after filtering out: 223
